@@ -1,0 +1,28 @@
+.boxmodel{
+    border-style: solid;
+    border-radius: 15px;
+    background-color: antiquewhite;
+    padding: 15px;
+    width: fit-content;
+    margin: 17px;
+    box-shadow: 2px 1px 2px gray;
+    
+}
+#Header{
+    background-color: hotpink;
+    position: sticky;
+    top: 0%;
+    height: 40px;
+}
+body{
+    margin: 0%;
+    background-image:url(../Images/car1.png);
+}
+#max{
+    background-color: blanchedalmond;
+    position: fixed;
+    bottom:15px ;
+    right: 15px;
+    padding: 10px;
+    border-radius: 50px;
+}
